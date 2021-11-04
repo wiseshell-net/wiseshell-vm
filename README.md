@@ -30,4 +30,4 @@ Per a introduir la clau pública pots anar amb el gestor de fitxers a `/home/wis
 Si vols fer-ho amb un terminal, pots aplicar la següent ordre:
 `cat /home/wiseshell/.ssh/id_rsa.pub`. Et mostrarà tot d'una el contingut del fitxer. Copia'l.
 
-Vés al navegador i fes CTRL+V a l'apartat de *Key*. Al *Title*, pots posar el que trobis, *Wiseshell SSH* o *Default*, per exemple.
+- Vés al navegador i fes CTRL+V a l'apartat de *Key*. Al *Title*, pots posar el que trobis, *Wiseshell SSH* o *Default*, per exemple.
