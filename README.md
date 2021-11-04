@@ -1,6 +1,12 @@
 # VirtualBox Wiseshell Debian 11
 
-Màquina Virtual per a desenvolupament de Truc (C/C++).
+Màquina Virtual per a desenvolupament de Truc (C/C++).<br/>
+VirtualBox versió 6.1.26.
+
+## Login
+
+- Nom d'usuari: wiseshell
+- Contrasenya: wiseshell
 
 ## IDE
 
