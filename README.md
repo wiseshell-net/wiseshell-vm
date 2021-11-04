@@ -3,6 +3,17 @@
 Màquina Virtual per a desenvolupament de Truc (C/C++).<br/>
 VirtualBox versió 6.1.26.
 
+**Requeriments**: 2048 MB de memòria RAM lliures.
+
+## Setup
+
+- Descarrega't la màquina virtual [aquí](https://github.com/wiseshell-net/wiseshell-vm/releases/download/1.0.0/Debian_11_WiseShell_Development_VM.zip).
+- Descomprimeix el fitxer.
+- Obre VirtualBox.
+- Fes al menú i fes clic a *Màquina* i després a *Afegeix*.
+- Vés al lloc on tens descarregada la màquina virtual i localitza el fitxer *.vbox* (t'ho hauria d'indicar la pròpia finestra del VirtualBox).
+- Arranca la màquina i comprova que tot funciona.
+
 ## Login
 
 - Nom d'usuari: wiseshell
