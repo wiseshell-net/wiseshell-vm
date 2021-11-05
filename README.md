@@ -23,9 +23,16 @@ VirtualBox versió 6.1.26.
 
 - Ve preinstal·lat KDevelop 5.6.0.
 
-- Tant *KDevelop* com *Eclipse for C/C++ Developers* funciona perfecte.
+- Tant *KDevelop* com *Eclipse for C/C++ Developers* funciona perfecte, tot i que Eclipse pot resultar una mica lent si s'instal·la en la màquina virtual.
 
-- Si instal·les *KDevelop* des d'AppImage versió 5.6.1 no funcionarà.
+- Si instal·les *KDevelop* des d'AppImage versió 5.6.1 no funcionarà (llibreries massa antigues).
+
+### KDevelop
+
+- Vés al Menú i clica *Project → Import Project...*
+- Selecciona el projecte de Truc. Assegura't que estigui seleccionat CMake com a fitxer de compilació.
+- Per a començar a programar amb el projecte, obre la pestanya que trobaràs a l'esquerra de tot, que posa *Projects* (en lletres girades).
+- Per a executar el projecte en un terminal, has d'anar al menú *Run → Configure Launches...*. Marca *Truc* com a *Project Target*. Després, marca l'opció d'executar en un terminal extern (el terminal intern no accepta inputs de l'usuari). Omple la casella de text amb `xfce4-terminal -e %exe`.
 
 ## GitHub
 
